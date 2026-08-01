@@ -2,6 +2,10 @@
 
 拖拽式 YouTube 视频下载工具，绿色版无需安装 Python。把视频链接拖进窗口即可开始下载最高可用画质，也支持通过 Firefox 登录状态下载会员专属视频。
 
+## 下载
+
+绿色版：[YouTubeDownloader-portable.zip](https://github.com/75666/YouTubeDownloader/releases/download/v1.0.0/YouTubeDownloader-portable.zip)
+
 ## 功能
 
 - 拖拽 YouTube 链接自动开始下载
