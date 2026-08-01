@@ -1,0 +1,4 @@
+yt-dlp==2026.7.4
+imageio-ffmpeg==0.6.0
+tkinterdnd2==0.6.2
+pyinstaller==6.21.0
